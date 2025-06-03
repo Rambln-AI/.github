@@ -1,4 +1,16 @@
-# 🤖 Rambln.AI
+<div align="center">
+  <picture>
+    <!-- <source srcset="https://raw.githubusercontent.com/Rambln-AI/.github/refs/heads/main/profile/images/ramblnAI_full_logo.png" media="(prefers-color-scheme: dark)"/> -->
+    <img src="https://raw.githubusercontent.com/Rambln-AI/.github/refs/heads/main/profile/images/ramblnAI_full_logo.png" alt="Rambln.AI Logo" height=700 width=1000 />
+  </picture>
+
+  <h1>
+    <a href="https://github.com/Rambln-AI">
+      Rambln.AI
+    </a>
+  </h1>
+</div>
+
 
 Rambln.AI is an AI-powered assistant that streamlines communication between product managers and engineering teams by automatically gathering, organizing, and summarizing key updates — reducing the need for status meetings and accelerating decision-making.
 
@@ -25,7 +37,7 @@ Rambln.AI is an AI-powered assistant that streamlines communication between prod
 
 ## 📁 Project Structure
 
-**ATTENTION:** This is just for the README atm. Will change accordingly as time goes on.
+**ATTENTION:** This is for demonstration purposes only. Actual project structure may (most definitely) differ.
 ```
 ai-pm-assistant/
 ├── backend/
