@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <!-- <source srcset="https://raw.githubusercontent.com/Rambln-AI/.github/refs/heads/main/profile/images/ramblnAI_full_logo.png" media="(prefers-color-scheme: dark)"/> -->
-    <img src="https://raw.githubusercontent.com/Rambln-AI/.github/refs/heads/main/profile/images/ramblnAI_full_logo.png" alt="Rambln.AI Logo" height=700 width=1000 />
+    <img src="https://raw.githubusercontent.com/Rambln-AI/.github/refs/heads/main/profile/images/ramblnAI_full_logo.png" alt="Rambln.AI Logo" height=650 width=1000 />
   </picture>
 
   <h1>
